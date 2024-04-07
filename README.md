@@ -6,7 +6,7 @@
 
 💻 Collaboration is where the magic happens! Whether it's optimizing database performance, designing intuitive user interfaces, or implementing complex back-end logic, I'm eager to collaborate on projects that push boundaries and deliver real value.
 
-📫 Want to connect? Drop me a line at ayandamzolo11@gmail.com or give me a call at +27(82)-265-9793. Let's combine our strengths and create something remarkable!
+📫 Want to connect? Drop me a line at ayandamzolo11@gmail.com. Let's combine our strengths and create something remarkable!
 
 😄 Pronouns: She/Her
 
