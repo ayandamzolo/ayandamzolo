@@ -1,5 +1,3 @@
-
-
 👋 안녕하세요 (Hello)! I'm @ayandamzolo, a tech enthusiast with a passion for building robust back-end systems and crafting seamless user experiences. With a background in software development from TUT, specializing in C++, I excel in architecting powerful solutions that drive functionality and performance.
 
 🌱 Currently, I'm honing my skills in full-stack development, mastering languages like Javascript, HTML, CSS, React, and diving deep into databases with SQL, MySQL, and Postgres. With proficiency in these areas and a solid foundation in C++, I'm poised to create comprehensive, end-to-end solutions.
@@ -10,4 +8,4 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun Fact: Fun fact: In addition to coding, I can hold a conversation in Korean, bridging cultures and languages one line of code at a time!
+⚡ Fun Fact: In addition to coding, I can hold a conversation in Korean, bridging cultures and languages one line of code at a time!
